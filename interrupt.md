@@ -1,24 +1,39 @@
-# ä¸­æ–­çš„ä»‹ç»å’ŒæŒ‰é”®çš„ä½¿ç”¨
+# ÖÐ¶ÏµÄ½éÉÜºÍ°´¼üµÄÊ¹ÓÃ
 
-1. ä¸­æ–­çš„æ¦‚å¿µ
-    - ä»€ä¹ˆæ˜¯ä¸­æ–­?
-    - ä¸ºä»€ä¹ˆè¦æœ‰ä¸­æ–­?/ä¸­æ–­è¿™ä¸ªåŠŸèƒ½å­˜åœ¨çš„æ„ä¹‰?
-2. ä¸­æ–­çš„ä½¿ç”¨
-    - æž„æƒ³ä¸­æ–­çš„ä½¿ç”¨åœºæ™¯
-3. ä¸­æ–­ç¨‹åºçš„è®¾è®¡(ä»¥æŒ‰é”®ä¸ºä¾‹)
-    - æ¿å­ä¸Šé¢æŒ‰é”®è¿˜æœ‰LEDå¯¹åº”çš„å¼•è„šâ†’åŽŸç†å›¾ç»™å‡º
-    - æ¡†å›¾â†’å¦‚ä½•å®žçŽ°è¿™ä¸ªåŠŸèƒ½?
-    - ç¨‹åºæºç ç»™å‡º
+1. ÖÐ¶ÏµÄ¸ÅÄî
+    - Ê²Ã´ÊÇÖÐ¶Ï?
+    - ÎªÊ²Ã´ÒªÓÐÖÐ¶Ï?/ÖÐ¶ÏÕâ¸ö¹¦ÄÜ´æÔÚµÄÒâÒå?
+2. ÖÐ¶ÏµÄÊ¹ÓÃ
+    - ¹¹ÏëÖÐ¶ÏµÄÊ¹ÓÃ³¡¾°
+3. ÖÐ¶Ï³ÌÐòµÄÉè¼Æ(ÒÔ°´¼üÎªÀý)
+    - °å×ÓÉÏÃæ°´¼ü»¹ÓÐLED¶ÔÓ¦µÄÒý½Å¡úÔ­ÀíÍ¼¸ø³ö
+    - ¿òÍ¼¡úÈçºÎÊµÏÖÕâ¸ö¹¦ÄÜ?
+    - ³ÌÐòÔ´Âë¸ø³ö
+
+
+## ÖÐ¶ÏµÄ¸ÅÄî
+1. Éú»îÊµ¼ÊÀý×Ó
+- ¼Ù¶¨Ò»¸öÇé¾°£ºÄãÏÖÔÚÔÚ¼ÒÐ´×÷Òµ¡£ÄãÅóÓÑ¸øÄã·¢QQÈÃÄãÏÖÔÚ°ïËû¿´¸öÓÎÏ·×°±¸¡£ÄãÃ»ÓÐÀíËû£¬ÒòÎªÔÚÄãµÄÐÄÀï*Ñ§Ï°±È×°±¸ÖØÒª*¡£
+- Äã¸Õ¸Õ¼ÌÐøÑ§Ï°Èý·ÖÖÓÖ®ºó£¬ÄãÎÅµ½³ø·¿ÀïÓÐÒ»¹ÉºýÎ¶¡£Äã¸Ï½ôÈ¥°Ñ»ð¹ØÁË¡£ÒòÎª*±ÜÃâÊ§»ð±ÈÑ§Ï°ÖØÒª*¡£
+2. Ê²Ã´ÊÇÖÐ¶Ï£¿
+- ÔÝÍ£Ô­ÏÈµÄ³ÌÐò»òÊÂÇé£¬Ö´ÐÐÁíÍâÒ»Ð©³ÌÐò»òÊÂÇé£¬Ö´ÐÐÍê³Éºó·µ»ØÔ­À´µÄ³ÌÐò¡£
+3. ÎªÊ²Ã´ÒªÓÐÖÐ¶Ï£¿
+- ÒòÎª**ÁíÒ»Ð©³ÌÐò»òÊÂÇé±ÈÄãÔ­ÏÈÕýÔÚ×öµÄÊÂÇéÒªÖØÒª**£¬»òÕßÕâÐ©Í»·¢ÊÂÇéÄãÊÇ**ÎÞ·¨¿ØÖÆËüµÄÀ´ÁÙ**µÄ¡£
+## ÖÐ¶ÏµÄÊ¹ÓÃ
+- Ó¦ÓÃ³¡¾°£¿ ±È½Ï³õ¼¶µÄ£¬Õâ´Î¿ÉÒÔ¼òµ¥ÊµÏÖµÄ
+    - ÓÃSW0/1¿ØÖÆLED
+        - [x] ÁÁ/Ãð
+        - [x] »»¸öÑÕÉ«
+
+## ³ÌÐòÉè¼Æ
+
+### ¶ÔÓ¦Òý½Å
 
 ![20200502_204355_30](images/20200502_204355_30.png)
 
-## ä¸­æ–­çš„æ¦‚å¿µ
+![20200502_225910_69](images/20200502_225910_69.png)
 
-## ä¸­æ–­çš„ä½¿ç”¨
-
-## ç¨‹åºè®¾è®¡
-
-### æºç 
+### Ô´Âë
 ```
 #include <stdint.h>
 #include <stdbool.h>
@@ -64,21 +79,22 @@ void vGPIO_Config_1(void)
 
     GPIOIntEnable(GPIO_PORTF_BASE,GPIO_INT_PIN_4);
     GPIOIntTypeSet(GPIO_PORTF_BASE,GPIO_PIN_4,GPIO_FALLING_EDGE );
-    IntMasterEnable();
+    IntMasterEnable(); //Enables the processor interrupt.
 }
 
 void INT_GPIOF_Handler(void)
 {
-      GPIOIntClear(GPIO_PORTF_BASE, GPIO_INT_PIN_4);
-        flag++;   //switch the states of the LED
-        if(flag==4)
-						flag=1;
-        switch(flag)
-        {
-            case 1: GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,GPIO_PIN_2 |GPIO_PIN_3); break;
-            case 2: GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,GPIO_PIN_1|GPIO_PIN_3); break;
-            case 3:GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,0XFF); break;
-        }
+     GPIOIntClear(GPIO_PORTF_BASE, GPIO_INT_PIN_4);
+     flag++;   //switch the states of the LED
+     if(flag==4)
+		flag=1;
+     switch(flag)
+     {
+        case 1: GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,GPIO_PIN_2 |GPIO_PIN_3); break;
+        case 2: GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,GPIO_PIN_1|GPIO_PIN_3); break;
+        case 3:GPIOPinWrite(GPIO_PORTF_BASE,GPIO_PIN_1|GPIO_PIN_2 |GPIO_PIN_3,0XFF); break;
+     }
 }
+
 
 ```
